@@ -1,0 +1,25 @@
+NA FUNÇÃO A GENTE DEFINI ARGUMENTOS, ONDE VOCÊ PODE SEPARA NA FUNÇÃO COM A ","
+
+ARGUMENTOS NÃO NOMEADOS = NÃO DEFINIDOS
+
+EX: 
+
+print(123 , 456 )
+
+é você pode defini o separador
+
+EX: 
+
+print(123, 456, sep="-")
+
+CADA SISTEMA OPERACIONAL TEM SEU SISTEMA DE QUEBRA DE LINHA
+
+Windows = \r\n -> CRLF
+
+MacOS = \n -> LF
+
+E NO PYTHON VOCÊ CONSEGUE ADICIONAR A QUEBRA DE LINHA
+
+EX: 
+
+print(123, 456, sep="-", end="\r\n")

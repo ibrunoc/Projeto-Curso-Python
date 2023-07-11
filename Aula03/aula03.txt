@@ -1,0 +1,17 @@
+str -> string -> texto
+Strings são textos que estão dentro de aspas
+
+
+# Escape
+print("Bruno \"Costa\"")
+
+exibe a " com a barra na antes, o chamado Escape
+
+print(2, "Bruno 'Costa'")
+
+assim também exibe as "
+
+# r
+print(r"Bruno \"Costa\"")
+
+exibe tudo depois do r
